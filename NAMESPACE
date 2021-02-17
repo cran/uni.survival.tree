@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("survival","survfit","survdiff")
+importFrom("graphics", "legend", "par", "text","plot")
+importFrom("compound.Cox","X.pathway","uni.score")
+importFrom("stats","pchisq","quantile")
