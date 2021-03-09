@@ -1,6 +1,6 @@
-23f7efbaffd8436bfc3074e1ace0663d *DESCRIPTION
+3aed4de77079eeae7bae2e64f0919224 *DESCRIPTION
 4d8d26b4fabaa3c27c19434a260a7878 *NAMESPACE
-7c47d72cc62fdf7127d33f41243f0c69 *R/KM.split.R
+df35b9b7dcd3dadcaf18826ec841bbbe *R/KM.split.R
 664d9aea384f03afa0c31a9e15c26666 *R/X.pathway_discrete.balanced.R
 52e3404a0bdd8b7b282fbf4bd0800b7b *R/X.pathway_discrete.imbalanced.R
 25c14398b16f0390d56d5fc2be702828 *R/feature.selected.R
