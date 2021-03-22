@@ -1,4 +1,4 @@
-3aed4de77079eeae7bae2e64f0919224 *DESCRIPTION
+985928aee399a7ecc4a696da823dca9a *DESCRIPTION
 4d8d26b4fabaa3c27c19434a260a7878 *NAMESPACE
 df35b9b7dcd3dadcaf18826ec841bbbe *R/KM.split.R
 664d9aea384f03afa0c31a9e15c26666 *R/X.pathway_discrete.balanced.R
@@ -6,7 +6,7 @@ df35b9b7dcd3dadcaf18826ec841bbbe *R/KM.split.R
 25c14398b16f0390d56d5fc2be702828 *R/feature.selected.R
 47adfe03dadfb34c72ba96bba102771b *R/risk.classification.R
 81ba0ad1f27d107beb381b327bf1adde *R/uni.logrank.R
-47275a1127104d8c9eab025cb68f7039 *R/uni.tree.R
+7de224309aedf396849537dc93477856 *R/uni.tree.R
 dc5d6ca06b446ba27da1e47810fd0f69 *man/KM.split.Rd
 8edd15fa859229801e21290b3a6c89d1 *man/X.pathway_discrete.balanced.Rd
 8d14382aba0c021396a071cdd85f5886 *man/X.pathway_discrete.imbalanced.Rd

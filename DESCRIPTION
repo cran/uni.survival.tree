@@ -2,7 +2,7 @@ Package: uni.survival.tree
 Type: Package
 Title: A Survival Tree Based on Stabilized Score Tests for
         High-dimensional Covariates
-Version: 1.4
+Version: 1.5
 Author: Takeshi Emura and Wei-Chern Hsu
 Maintainer: Takeshi Emura <takeshiemura@gmail.com>
 Description: A classification (decision) tree is constructed from survival data with high-dimensional covariates.
@@ -17,6 +17,6 @@ LazyData: true
 RoxygenNote: 7.1.0
 Depends: survival,compound.Cox
 NeedsCompilation: no
-Packaged: 2021-03-09 05:39:24 UTC; biouser
+Packaged: 2021-03-22 05:50:46 UTC; biouser
 Repository: CRAN
-Date/Publication: 2021-03-09 07:40:02 UTC
+Date/Publication: 2021-03-22 06:40:02 UTC
